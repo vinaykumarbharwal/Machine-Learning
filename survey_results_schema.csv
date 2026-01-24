@@ -1,0 +1,114 @@
+qid,qname,question,type,sub,sq_id
+Q001,MainBranch,MainBranch,single,,
+Q002,Age,Age,single,,
+Q003,EdLevel,EdLevel,single,,
+Q004,Employment,Employment,single,,
+Q005,EmploymentAddl,EmploymentAddl,single,,
+Q006,WorkExp,WorkExp,single,,
+Q007,YearsCode,YearsCode,single,,
+Q008,DevType,DevType,single,,
+Q009,OrgSize,OrgSize,single,,
+Q010,ICorPM,ICorPM,single,,
+Q011,RemoteWork,RemoteWork,single,,
+Q012,Industry,Industry,single,,
+Q013,Country,Country,single,,
+Q014,Currency,Currency,single,,
+Q015,CompTotal,CompTotal,single,,
+Q016,JobSat,JobSat,single,,
+Q017,AIThreat,AIThreat,single,,
+Q018,NewRole,NewRole,single,,
+Q019,SOAccount,SOAccount,single,,
+Q020,SOVisitFreq,SOVisitFreq,single,,
+Q021,SODuration,SODuration,single,,
+Q022,SOPartFreq,SOPartFreq,single,,
+Q023,SOComm,SOComm,single,,
+Q024,SOFriction,SOFriction,single,,
+Q025,AISelect,AISelect,single,,
+Q026,AISent,AISent,single,,
+Q027,AIAcc,AIAcc,single,,
+Q028,AIComplex,AIComplex,single,,
+Q029,AIFrustration,AIFrustration,single,,
+Q030,AIExplain,AIExplain,single,,
+Q031,AIAgents,AIAgents,single,,
+Q032,AIAgentChange,AIAgentChange,single,,
+Q033,AIHuman,AIHuman,single,,
+Q034,AIOpen,AIOpen,single,,
+Q035,LanguageHaveWorkedWith,LanguageHaveWorkedWith,multi,Languages,
+Q036,LanguageWantToWorkWith,LanguageWantToWorkWith,multi,Languages,
+Q037,LanguageAdmired,LanguageAdmired,multi,Languages,
+Q038,DatabaseHaveWorkedWith,DatabaseHaveWorkedWith,multi,Databases,
+Q039,DatabaseWantToWorkWith,DatabaseWantToWorkWith,multi,Databases,
+Q040,DatabaseAdmired,DatabaseAdmired,multi,Databases,
+Q041,PlatformHaveWorkedWith,PlatformHaveWorkedWith,multi,Platforms,
+Q042,PlatformWantToWorkWith,PlatformWantToWorkWith,multi,Platforms,
+Q043,PlatformAdmired,PlatformAdmired,multi,Platforms,
+Q044,WebframeHaveWorkedWith,WebframeHaveWorkedWith,multi,Web Frameworks,
+Q045,WebframeWantToWorkWith,WebframeWantToWorkWith,multi,Web Frameworks,
+Q046,WebframeAdmired,WebframeAdmired,multi,Web Frameworks,
+Q047,DevEnvsHaveWorkedWith,DevEnvsHaveWorkedWith,multi,Dev Environments,
+Q048,DevEnvsWantToWorkWith,DevEnvsWantToWorkWith,multi,Dev Environments,
+Q049,DevEnvsAdmired,DevEnvsAdmired,multi,Dev Environments,
+Q050,AIModelsHaveWorkedWith,AIModelsHaveWorkedWith,multi,AI Models,
+Q051,AIModelsWantToWorkWith,AIModelsWantToWorkWith,multi,AI Models,
+Q052,AIModelsAdmired,AIModelsAdmired,multi,AI Models,
+Q053,JobSatPoints,JobSatPoints,matrix,Job Satisfaction,1
+Q053,JobSatPoints,JobSatPoints,matrix,Job Satisfaction,10
+Q053,JobSatPoints,JobSatPoints,matrix,Job Satisfaction,11
+Q053,JobSatPoints,JobSatPoints,matrix,Job Satisfaction,13
+Q053,JobSatPoints,JobSatPoints,matrix,Job Satisfaction,14
+Q053,JobSatPoints,JobSatPoints,matrix,Job Satisfaction,15
+Q053,JobSatPoints,JobSatPoints,matrix,Job Satisfaction,16
+Q053,JobSatPoints,JobSatPoints,matrix,Job Satisfaction,2
+Q053,JobSatPoints,JobSatPoints,matrix,Job Satisfaction,3
+Q053,JobSatPoints,JobSatPoints,matrix,Job Satisfaction,4
+Q053,JobSatPoints,JobSatPoints,matrix,Job Satisfaction,5
+Q053,JobSatPoints,JobSatPoints,matrix,Job Satisfaction,6
+Q053,JobSatPoints,JobSatPoints,matrix,Job Satisfaction,7
+Q053,JobSatPoints,JobSatPoints,matrix,Job Satisfaction,8
+Q053,JobSatPoints,JobSatPoints,matrix,Job Satisfaction,9
+Q054,TechEndorse,TechEndorse,matrix,Technology Attitudes,1
+Q054,TechEndorse,TechEndorse,matrix,Technology Attitudes,13
+Q054,TechEndorse,TechEndorse,matrix,Technology Attitudes,2
+Q054,TechEndorse,TechEndorse,matrix,Technology Attitudes,3
+Q054,TechEndorse,TechEndorse,matrix,Technology Attitudes,4
+Q054,TechEndorse,TechEndorse,matrix,Technology Attitudes,5
+Q054,TechEndorse,TechEndorse,matrix,Technology Attitudes,6
+Q054,TechEndorse,TechEndorse,matrix,Technology Attitudes,7
+Q054,TechEndorse,TechEndorse,matrix,Technology Attitudes,8
+Q054,TechEndorse,TechEndorse,matrix,Technology Attitudes,9
+Q054,TechEndorse,TechEndorse,matrix,Technology Attitudes,
+Q055,TechOppose,TechOppose,matrix,Technology Attitudes,1
+Q055,TechOppose,TechOppose,matrix,Technology Attitudes,11
+Q055,TechOppose,TechOppose,matrix,Technology Attitudes,13
+Q055,TechOppose,TechOppose,matrix,Technology Attitudes,15
+Q055,TechOppose,TechOppose,matrix,Technology Attitudes,16
+Q055,TechOppose,TechOppose,matrix,Technology Attitudes,2
+Q055,TechOppose,TechOppose,matrix,Technology Attitudes,3
+Q055,TechOppose,TechOppose,matrix,Technology Attitudes,5
+Q055,TechOppose,TechOppose,matrix,Technology Attitudes,7
+Q055,TechOppose,TechOppose,matrix,Technology Attitudes,9
+Q056,SO_Actions,SO Actions,matrix,Stack Overflow,1
+Q056,SO_Actions,SO Actions,matrix,Stack Overflow,10
+Q056,SO_Actions,SO Actions,matrix,Stack Overflow,15
+Q056,SO_Actions,SO Actions,matrix,Stack Overflow,16
+Q056,SO_Actions,SO Actions,matrix,Stack Overflow,3
+Q056,SO_Actions,SO Actions,matrix,Stack Overflow,4
+Q056,SO_Actions,SO Actions,matrix,Stack Overflow,5
+Q056,SO_Actions,SO Actions,matrix,Stack Overflow,6
+Q056,SO_Actions,SO Actions,matrix,Stack Overflow,7
+Q056,SO_Actions,SO Actions,matrix,Stack Overflow,9
+Q057,AIAgentImpact,AIAgentImpact,matrix,AI Agents,
+Q057,AIAgentImpact,AIAgentImpact,matrix,AI Agents,
+Q057,AIAgentImpact,AIAgentImpact,matrix,AI Agents,
+Q057,AIAgentImpact,AIAgentImpact,matrix,AI Agents,
+Q057,AIAgentImpact,AIAgentImpact,matrix,AI Agents,
+Q058,AIAgentChallenges,AIAgentChallenges,matrix,AI Agents,
+Q058,AIAgentChallenges,AIAgentChallenges,matrix,AI Agents,
+Q058,AIAgentChallenges,AIAgentChallenges,matrix,AI Agents,
+Q058,AIAgentChallenges,AIAgentChallenges,matrix,AI Agents,
+Q058,AIAgentChallenges,AIAgentChallenges,matrix,AI Agents,
+Q059,AITool,AITool,matrix,AI Tools,
+Q059,AITool,AITool,matrix,AI Tools,
+Q059,AITool,AITool,matrix,AI Tools,
+Q059,AITool,AITool,matrix,AI Tools,
+Q059,AITool,AITool,matrix,AI Tools,
